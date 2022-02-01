@@ -1,0 +1,27 @@
+{
+  "name": "flower",
+  "version": "0.0.1-beta",
+  "description": "making flowers",
+  "main": "flower.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarai-sansone/FlowerNode.git"
+  },
+  "keywords": [
+    "flower",
+    "flowers",
+    "node",
+    "dandelions"
+  ],
+  "author": "sarai-sansone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarai-sansone/FlowerNode/issues"
+  },
+  "homepage": "https://github.com/sarai-sansone/FlowerNode#readme"
+}
