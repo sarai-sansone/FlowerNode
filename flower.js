@@ -1,3 +1,6 @@
+"use strict";
+exports.__esModule = true;
+exports.Flower = void 0;
 var Flower = /** @class */ (function () {
     function Flower(petalColor, waterAmount) {
         this.petalColor = petalColor;
@@ -11,3 +14,4 @@ var Flower = /** @class */ (function () {
     };
     return Flower;
 }());
+exports.Flower = Flower;

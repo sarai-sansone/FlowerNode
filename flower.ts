@@ -1,4 +1,4 @@
-class Flower {
+export class Flower {
     private petalColor:string;
     public waterAmount:number;
     
